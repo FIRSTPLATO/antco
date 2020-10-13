@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" /> <img src="https://img.shields.io/badge/need-donation-brightgreen.svg" />
 
-## Web based Ant Colony - ACO optimization algorithm, for computer science and operation research
+## Web based Ant Colony - ACO optimization algorithm, for computer science and operation research - [English](https://github.com/daniasefine/antco/blob/main/README_en.md)
 
 ![](https://raw.githubusercontent.com/daniasefine/antco/main/1.jpg)
 
