@@ -1,5 +1,7 @@
 # antco
 
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" /> <img src="https://img.shields.io/badge/need-donation-brightgreen.svg" />
+
 ## Web based Ant Colony - ACO optimization algorithm, for computer science and operation research
 
 Aplikasi web based Ant Colony atau biasa disingkat ACO, merupakan algoritma optimasi untuk melakukan pencarian jarak tercepat, terdekat dan terefektif, dia antara beberapa titik lokasi.
