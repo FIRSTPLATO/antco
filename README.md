@@ -35,6 +35,10 @@ Elements :
 - Datatables v1.x
 
 Sumber dan referensi :
+- https://id.wikipedia.org/wiki/Algoritme_semut
+- https://socs.binus.ac.id/2019/12/31/ant-colony-optimization/#:~:text=ACO%20adalah%20teknik%20probabilitas%20untuk,kompleks%20dimana%20terdapat%20banyak%20variabel.
+- https://jurnal.ugm.ac.id/ijccs/article/view/3052
+- https://jurnal.umk.ac.id/index.php/simet/article/view/1914
 
 Feel free to reach us on :
 - https://www.firstplato.com
