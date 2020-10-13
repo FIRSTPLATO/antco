@@ -4,6 +4,8 @@
 
 ## Web based Ant Colony - ACO optimization algorithm, for computer science and operation research
 
+![](https://raw.githubusercontent.com/daniasefine/antco/main/1.jpg)
+
 Aplikasi web based Ant Colony atau biasa disingkat ACO, merupakan algoritma optimasi untuk melakukan pencarian jarak tercepat, terdekat dan terefektif, dia antara beberapa titik lokasi.
 
 > Preview dan demo bisa dilihat di https://lab.firstplato.com/antco
