@@ -8,7 +8,7 @@
 
 Aplikasi web based Ant Colony atau biasa disingkat ACO, merupakan algoritma optimasi untuk melakukan pencarian jarak tercepat, terdekat dan terefektif, dia antara beberapa titik lokasi.
 
-> Preview dan demo bisa dilihat di https://lab.firstplato.com/antco
+> Preview dan demo bisa dilihat di https://lab.firstplato.com/antco dan https://youtu.be/w-5Xpy5L7v4
 
 Semoga bermanfaat bagi yang ingin mempelajari :
 - Web programming, terutama PHP7, Javascript, JQuery, Bootstrap dan CSS3.
@@ -25,6 +25,7 @@ Installasi :
 Preview :
 
 - https://lab.firstplato.com/antco
+- https://youtu.be/w-5Xpy5L7v4
 
 Minimum requirements :
 
