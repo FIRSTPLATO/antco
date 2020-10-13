@@ -45,6 +45,8 @@ Sumber dan referensi :
 - https://jurnal.umk.ac.id/index.php/simet/article/view/1914
 - https://socs.binus.ac.id/2019/12/31/ant-colony-optimization/#:~:text=ACO%20adalah%20teknik%20probabilitas%20untuk,kompleks%20dimana%20terdapat%20banyak%20variabel.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w-5Xpy5L7v4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Feel free to reach us on :
 - https://www.firstplato.com
 - https://www.facebook.com/firstplato
